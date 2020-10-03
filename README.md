@@ -11,7 +11,7 @@ Depending on the position and game difficulty, a player can earn XP by entering 
 
 Not only does the algorithm I've written calculate an appropriate amount of XP based on the player's position, the game difficulty, and the player's in game performance, TrueCareer also serves as a backup of a player's key attributes and badges in case a 2k19 save is corrupted or wiped and you need to transfer your player's progression to a new save.
 
-TrueCareer is an ongoing project, hence the "1.0", but included in this repository are .java files for all 5 NBA positions, InOutXML.java, which handles the reading and writing of player data to local xml files, Game.java, which defines all the statistical elements of an NBA game and is used to calculate experience gained per match, as well as Player.java, PlayerBase.java, and PlayerPosition.java, all files that build up an individual player object. 
+TrueCareer is an ongoing project, hence the "1.0", but included in this repository are .java files for all 5 NBA positions, InOutXML.java, which handles the reading and writing of player data to local xml files, Game.java, which defines all the statistical elements of an NBA game and is used to calculate experience gained per match, as well as Player.java, PlayerBase.java, and PlayerPosition.java, all files that build up an individual player object. Also included is Test.xml, a sample xml file containing player data to be used to test the code without needing to create a brand new player.
 
 In order to use these files, ensure that the file path in InOutXML.java is accurate for your pc and compile and run UserInterface.java.
 
