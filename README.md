@@ -1,7 +1,7 @@
 # TrueCareer-1.0
-Jo Johnson
-Fall, 2020
-For NBA 2k19
+[Jo Johnson,
+Fall, 2020,
+For NBA 2k19]
 
 TrueCareer 1.0 is the first iteration of my TrueCareer Project. NBA 2k's MyCareer gamemode can, at times, feel severely limited in functionality. Luckily, the MyLeague gamemode also allows for player creation and many have created custom players and used them through MyLeague instead due to its vastly more powerful customization. However, the downside is that there is less guidance when it comes to upgrading your created player, and it can be hard to keep track of all the attributes and badges across saves. 
 
